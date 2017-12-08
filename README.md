@@ -1,1 +1,2 @@
 # plugin-teleinfo
+obsolete
